@@ -1,0 +1,13 @@
+<!ELEMENT sites (site*)>
+<!ELEMENT site (name,url,category?,frequency?,Mon?,Tue?,Mid?,Thu?,Fri?,Sat?,Sun?)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT url (#PCDATA)>
+<!ELEMENT category (#PCDATA)>
+<!ELEMENT frequency (#PCDATA)>
+<!ELEMENT Mon (#PCDATA)>
+<!ELEMENT Tue (#PCDATA)>
+<!ELEMENT Mid (#PCDATA)>
+<!ELEMENT Thu (#PCDATA)>
+<!ELEMENT Fri (#PCDATA)>
+<!ELEMENT Sat (#PCDATA)>
+<!ELEMENT Sun (#PCDATA)>

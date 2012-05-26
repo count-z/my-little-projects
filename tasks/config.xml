@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<!DOCTYPE webseiten SYSTEM 'sites.dtd'><sites>
+	<site>
+		<name>Bash</name>
+		<url>http://bash.org/?latest</url>
+		<category>bash</category>
+		<mon>X</mon>
+	</site>
+	<site>
+		<name>BugBash</name>
+		<url>http://www.bugbash.net/comic/</url>
+		<category>comic</category>
+		<mon>X</mon>
+	</site>
+	<site>
+		<name>Dilbert</name>
+		<url>http://www.dilbert.com/comics/dilbert/archive/dilbert-%Y%m%d.html</url>
+		<category>comic</category>
+	</site>
+	<site>
+		<name>Ehrensenf - Seite</name>
+		<url>http://www.ehrensenf.de/%Y/%m/%d/</url>
+		<category>ehrensenf</category>
+		<mon>X</mon>
+		<tue>X</tue>
+		<wed>X</wed>
+		<thu>X</thu>
+		<fri>X</fri>
+	</site>
+	<site>
+		<name>Ehrensenf - Video</name>
+		<url>http://ehrensenf.server-7.video.conserve.de/%Y-%m-%d.mov</url>
+		<category>ehrensenf</category>
+		<mon>X</mon>
+		<tue>X</tue>
+		<wed>X</wed>
+		<thu>X</thu>
+		<fri>X</fri>
+	</site>
+	<site>
+		<name>Gegen den Strich</name>
+		<url>http://www.gegen-den-strich.com/cartoons.html</url>
+		<category>comic</category>
+		<mon>X</mon>
+	</site>
+	<site>
+		<name>Krakow Studios</name>
+		<url>http://www.krakowstudios.com/archive.php?date=%Y%m%d</url>
+		<category>comic</category>
+		<mon>X</mon>
+		<tue>X</tue>
+		<wed>X</wed>
+		<thu>X</thu>
+		<fri>X</fri>
+	</site>
+	<site>
+		<name>LICD</name>
+		<url>http://licd.com/index2.php?date=%Y%m%d</url>
+		<category>comic</category>
+		<mon>X</mon>
+		<tue>X</tue>
+		<wed>X</wed>
+		<thu>X</thu>
+		<fri>X</fri>
+		<sat>X</sat>
+	</site>
+	<site>
+		<name>Marilith</name>
+		<url>http://marilith.com/archive.php?date=%Y%m%d</url>
+		<category>comic</category>
+		<tue>X</tue>
+		<thu>X</thu>
+	</site>
+	<site>
+		<name>UserFriendly</name>
+		<url>http://ars.userfriendly.org/cartoons/?id=%Y%m%d</url>
+		<category>comic</category>
+		<mon>X</mon>
+		<tue>X</tue>
+		<wed>X</wed>
+		<thu>X</thu>
+		<fri>X</fri>
+		<sat>X</sat>
+		<sun>X</sun>
+	</site>
+	<site>
+		<name>VideoGameCats</name>
+		<url>http://www.vgcats.com/comics/</url>
+		<category>comic</category>
+		<mon>X</mon>
+	</site>
+	<site>
+		<name>ct magazin.tv - Seite</name>
+		<url>http://www.heise.de/ct/tv/archiv/%Y%m%d/</url>
+		<category>cttv</category>
+		<sat>X</sat>
+	</site>
+	<site>
+		<name>ct magazin.tv - Video</name>
+		<url>http://balancer.streamfarm.net/tv1/cms/~kunde/~hronline_flv/fs/ctmagazin/%y%m%dganzesendung.flv</url>
+		<category>cttv</category>
+		<sat>X</sat>
+	</site>
+</sites>
+

@@ -1,0 +1,40 @@
+body{
+	background-color: Silver;
+	font-family : Tahoma;
+	text-align : center;
+}
+
+.wd{
+	margin: 0 auto;
+	margin-top:3em;
+	text-align: left;
+	padding: 0em;
+	border: ridge ;
+	width : 80%;
+}
+h2{
+	background-color : Black;
+	padding: 0em;
+	color : White;
+	text-align : left;
+	margin : 0 auto;
+}
+a{
+	padding-left : 1em;
+	padding-right : 1em;
+	text-decoration: none;
+}
+a:hover{
+	text-decoration : underline overline;
+	color : Black;
+}
+a:visited{
+	color : Gray;
+}
+#timedate {
+	text-align : right;
+}
+#nav {
+	text-align : left;
+	float : left; 
+}
